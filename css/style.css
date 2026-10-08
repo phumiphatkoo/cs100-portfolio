@@ -1,0 +1,61 @@
+header {
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+    background-color:green; 
+    padding: 1px;
+    }
+
+aside {
+    width: 50%;
+    padding-left: 30px;
+    margin-left: 10px;
+    float: right;
+    margin: 15px;
+        }
+
+footer {
+    text-align: right;
+    color:green;
+    }
+
+#Name_and_ID {
+    color:green;
+    }
+
+#Activity {
+    color:green;
+    }
+
+#VSCODE {
+    color:blue;
+    }
+
+#HTML{
+    color:blue;
+    }
+
+#CSS {
+    color:blue;
+    }
+
+ul {
+    color:rgb(255, 0, 183);
+    }
+
+img {
+    border-style:double ;
+    border-radius:10%;
+    }
+
+section {
+    margin: 50px;
+    }
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    }
+
+h2 {
+    color:green;
+    border-style: dashed;
+    }
